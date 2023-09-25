@@ -1,4 +1,10 @@
-# Scenario
+# COVID MySQL Project README
+
+## Project Overview
+
+This repository contains the MySQL code for a data project focused on Airbnb listings in New York City. The project aims to clean, transform, and analyze Airbnb data to extract valuable insights. The code provided here accomplishes various tasks related to data cleaning, handling null values, outlier detection and treatment, and data analysis.
+
+## Scenerio
 
 You work for a European boutique hotel/home accommodation company that wants to expand to New York City, its first North American operation. 
 The company wants to establish a network of home accommodation in New York City.
@@ -11,11 +17,8 @@ You believe home accommodation may be a money-making opportunity for your compan
 
 You are looking for areas underserved by your client's competitors where your client might wish to begin expanding operations. 
 
-# COVID MySQL Project README
 
-## Project Overview
 
-This repository contains the MySQL code for a data project focused on Airbnb listings in New York City. The project aims to clean, transform, and analyze Airbnb data to extract valuable insights. The code provided here accomplishes various tasks related to data cleaning, handling null values, outlier detection and treatment, and data analysis.
 
 ## Table of Contents
 
