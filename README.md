@@ -23,6 +23,7 @@ You are looking for areas underserved by your client's competitors where your cl
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Scenerio](#scenerio)
 - [Table of Contents](#table-of-contents)
 - [Tasks Completed](#tasks-completed)
 - [Data Source](#data-source)
